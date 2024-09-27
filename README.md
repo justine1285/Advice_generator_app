@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution]([https://your-solution-url.com](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub))
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [live site]( https://justine1285.github.io/Advice_generator_app/)
 
 ## My process
 
